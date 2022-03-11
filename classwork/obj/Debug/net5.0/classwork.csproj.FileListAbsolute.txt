@@ -1,0 +1,16 @@
+C:\Bridgelabz\classWork\classwork\bin\Debug\net5.0\classwork.exe
+C:\Bridgelabz\classWork\classwork\bin\Debug\net5.0\classwork.deps.json
+C:\Bridgelabz\classWork\classwork\bin\Debug\net5.0\classwork.runtimeconfig.json
+C:\Bridgelabz\classWork\classwork\bin\Debug\net5.0\classwork.runtimeconfig.dev.json
+C:\Bridgelabz\classWork\classwork\bin\Debug\net5.0\classwork.dll
+C:\Bridgelabz\classWork\classwork\bin\Debug\net5.0\classwork.pdb
+C:\Bridgelabz\classWork\classwork\obj\Debug\net5.0\classwork.csproj.AssemblyReference.cache
+C:\Bridgelabz\classWork\classwork\obj\Debug\net5.0\classwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bridgelabz\classWork\classwork\obj\Debug\net5.0\classwork.AssemblyInfoInputs.cache
+C:\Bridgelabz\classWork\classwork\obj\Debug\net5.0\classwork.AssemblyInfo.cs
+C:\Bridgelabz\classWork\classwork\obj\Debug\net5.0\classwork.csproj.CoreCompileInputs.cache
+C:\Bridgelabz\classWork\classwork\obj\Debug\net5.0\classwork.dll
+C:\Bridgelabz\classWork\classwork\obj\Debug\net5.0\refint\classwork.dll
+C:\Bridgelabz\classWork\classwork\obj\Debug\net5.0\classwork.pdb
+C:\Bridgelabz\classWork\classwork\obj\Debug\net5.0\classwork.genruntimeconfig.cache
+C:\Bridgelabz\classWork\classwork\obj\Debug\net5.0\ref\classwork.dll
